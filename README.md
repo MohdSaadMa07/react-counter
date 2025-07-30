@@ -9,22 +9,6 @@ A simple counter application built using **React** and **Vite**, deployed on **N
 - Fully responsive and lightweight
 - Deployed on Netlify
 
-## 📁 Project Structure
-
-react-counter/
-├── client/
-│ ├── public/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── Counter.jsx
-│ │ └── index.css
-│ ├── index.html
-│ ├── package.json
-│ └── vite.config.js
-├── .gitignore
-└── README.md
-
-
 ## 🛠️ Tech Stack
 
 - React.js
